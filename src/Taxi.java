@@ -22,4 +22,3 @@ public class Taxi extends Car{
         return fareCollected;
     }
 }
-//

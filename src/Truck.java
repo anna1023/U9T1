@@ -36,4 +36,3 @@ public class Truck extends Vehicle {
         return true;
     }
 }
-//
